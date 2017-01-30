@@ -1,0 +1,26 @@
+body{
+	color: gray;
+	text-align: center;
+}
+.header{
+	background-color:#272822;
+	text-align: center;
+	height: 400px;
+	padding: 74px 16px 4px 15px;
+}
+.part-one{
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.btn{
+	margin-top: 111px;
+}
+.btn2{
+	margin: 0px;
+padding: 2px;
+}
+.part-two{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
